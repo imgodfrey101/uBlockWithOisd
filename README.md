@@ -14,7 +14,7 @@ Link : https://youtu.be/7cgJl8DDQ2E
 
 ![Snapshot](https://github.com/imgodfrey101/uBlockWithOisd/assets/110658018/8a4d97e2-2346-443d-a4e5-37cc6be5103d)
 
-## NB : If you get those annoying Ad Block Detected massages after doing this 
+## NB : If you get those annoying Ad Block Detected messages after doing this 
 
   1. Go to https://github.com/bogachenko
   
