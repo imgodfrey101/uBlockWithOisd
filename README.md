@@ -18,7 +18,7 @@ Link : https://youtu.be/7cgJl8DDQ2E
 
   1. Go to https://github.com/bogachenko
   
-  2. Click on f**kf**kadblock repo
+  2. Click on f--kf--kadblock repo
 
   3. Scroll a little look for "Use" then click on subscribe, then again click on subscribe on the uBlock tab.
   
