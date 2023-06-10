@@ -12,6 +12,5 @@
 
 Link : https://youtu.be/7cgJl8DDQ2E
 
-![Snapshot](https://github.com/imgodfrey101/uBlockWithOisd/assets/110658018/2895ce56-6cdc-49a1-abb2-de7c4e775e92)
 
 
